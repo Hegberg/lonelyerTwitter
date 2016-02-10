@@ -15,4 +15,4 @@
         android:id="@+id/intentText"
         android:text="@string/hello_world" />
 </RelativeLayout>
-<!-- From: file:/afs/ualberta.ca/home/h/e/hegberg/projects/lab6/lonelyTwitter/app/src/main/res/layout/activity_intent_reader.xml -->
+<!-- From: file:/afs/ualberta.ca/home/h/e/hegberg/projects/lab6/lonelyerTwitter/app/src/main/res/layout/activity_intent_reader.xml -->
